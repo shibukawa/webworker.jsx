@@ -91,7 +91,15 @@ The simplest way to create WebWorker, use jsx-init 0.3.0 or later.
 API Reference
 ------------------
 
-Write reference here!
+### function postMessage(message : variant/*any*/) : void;
+### function postMessage(message : variant/*any*/, transfer : Transferable[]) : void;
+### function close() : void;
+### function btoa(btoa : string/*DOMString*/) : string/*DOMString*/;
+### function atob(atob : string/*DOMString*/) : string/*DOMString*/;
+### function setTimeout(callback : function():void, intervalMS : number) : TimerHandle
+### function clearTimeout(timer : TimerHandle) : void;
+### function setInterval(callback : function():void, intervalMS : number) : TimerHandle;
+### function clearInterval(timer : TimerHandle) : void;
 
 Development
 -------------
