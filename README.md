@@ -1,6 +1,8 @@
 webworker.jsx
 ===========================================
 
+[![Build Status](https://travis-ci.org/shibukawa/webworker.jsx.png)](https://travis-ci.org/shibukawa/webworker.jsx)
+
 Synopsis
 ---------------
 
