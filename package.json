@@ -1,6 +1,6 @@
 {
   "name": "webworker.jsx",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "WebWorker API wrapper for JSX",
   "scripts": {
     "doc": "grunt doc"
@@ -12,6 +12,7 @@
     "altjs",
     "lib"
   ],
+  "main": "./src/webworker.jsx",
   "homepage": "https://github.com/shibukawa/webworker.jsx",
   "bugs": {
     "url": "https://github.com/shibukawa/webworker.jsx/issues"
