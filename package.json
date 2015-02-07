@@ -1,12 +1,9 @@
 {
   "name": "webworker.jsx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "WebWorker API wrapper for JSX",
   "scripts": {
     "doc": "grunt doc"
-  },
-  "bin": {
-    "sandbox": "./bin/sandbox"
   },
   "engines" : { "node" : ">=0.8.0" },
   "keywords": [
@@ -25,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shibukawa/sandbox.git"
+    "url": "git://github.com/shibukawa/webworker.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
